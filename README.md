@@ -3,4 +3,4 @@
 
 
 
-squadcitylauncher official repo by rauvell
+Squad City Launcher official repo by rauvell
