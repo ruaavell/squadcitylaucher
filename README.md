@@ -4,3 +4,4 @@
 
 
 Squad City Launcher official repo by rauvell
+https://github.com/ruaavell/squadcitylaucher bunun dışındaki repolardan indirmeyin kasi halde sorumluluk kabul edilmez
