@@ -6,4 +6,7 @@
 Squad City Launcher official repo by ruavell
 https://github.com/ruaavell/squadcitylaucher bunun dışındaki repolardan indirmeyin aksi halde sorumluluk kabul edilmez
 
+https://www.virustotal.com/gui/file/dedb1b46141719dca81222625a8d15ffee3aa60c4fd3b172485a8ee0780d1f69?nocache=1
+
+
 https://www.virustotal.com/gui/url/32c66667721f5faf1c30b3011cfb93bbd148b7b382767aadace37dd38686cbcb?nocache=1
